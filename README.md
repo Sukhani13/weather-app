@@ -1,6 +1,6 @@
 # weather_app
 
-<b>A Flutter project to check live weather at a city or at your live location.<b>
+<b>A Flutter project to check live weather at a city or at your live location.</b>
   <br><br>
   <img src="https://github.com/Sukhani13/weather-app/blob/master/Images/HomeScreen.png" width="250" height="500">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
